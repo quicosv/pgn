@@ -13,7 +13,7 @@ Las blancas tienen el rey en e1, la dama en d1, las torres en a1 y h1, los alfil
 Para indicar la pieza que efectúa el movimiento debemos indicarla con su inicial en inglés. Las equivalencias son las siguientes:
 
 - K de <span lang="en">king</span> para el rey.
-- Q de <span lang="en>queen</span> para la dam.a
+- Q de <span lang="en">queen</span> para la dam.a
 - R de <span lang="en">rook</span para la torre.
 - N de <span lang="en">knight</span> para el caballo (se usa la N porque la K está ocupada por el rey).
 - B de <span lang="en">bishop</span> para el alfil.
