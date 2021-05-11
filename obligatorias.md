@@ -7,7 +7,8 @@ Antes de poder escribir los movimientos que pertenecen a una partida, es necesar
 La forma en la que se deben definir estas etiquetas es la siguiente:
 
 
-```[Event "Torneo"]
+```
+[Event "Torneo"]
 [Site "Ciudad"]
 [Date "AAAA.MM.DD"]
 [Round "ronda"]
@@ -15,6 +16,7 @@ La forma en la que se deben definir estas etiquetas es la siguiente:
 [Black "Jugador de negras"]
 [Result "Resultado"]
 ```
+
 
 ## Significado y contenido de las etiquetas
 

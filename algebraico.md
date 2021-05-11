@@ -37,4 +37,6 @@ Además, existen otros símbolos imprescindibles para anotar una partida y son l
 
 Con todas estas herramientas ya se puede explicar cómo se anotan las jugadas de una partida. Es muy sencillo. Se escribe el número de la jugada, el movimiento de las blancas y el movimiento de las negras. Así, por ejemplo, los primeros movimientos de una partida se transcribirían así:
 
-1\. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. d4 dxe4
+```
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. d4 dxe4
+```
