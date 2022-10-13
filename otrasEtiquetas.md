@@ -8,8 +8,11 @@ La siguiente tabla recoge posible información que se puede añadir a los datos 
 
 etiqueta | Valor esperado |
 | --- | --- |
-ECO | Código de la apertura utilizada |
-| Opening | Nombre de la apertura utilizada |
-| WhiteElo | Ranking del jugador de blancas |
-| BlackElo | Ranking del jugador de negras |
-| Annotator | Nombre del comentarista |
+ECO | Código de la apertura utilizada
+Opening | Nombre de la apertura utilizada
+WhiteElo | Ranking del jugador de blancas
+WhiteTeam | Nombre del equipo al que pertenece el jugador de blancas
+BlackTeam | Nombre del equipo al que pertenece el jugador de negras
+BlackElo | Ranking del jugador de negras |
+Annotator | Nombre del comentarista
+Board | Número del tablero en el que se jugó la partida
